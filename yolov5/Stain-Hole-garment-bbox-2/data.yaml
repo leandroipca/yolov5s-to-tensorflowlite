@@ -1,0 +1,6 @@
+names:
+- hole
+- stain
+nc: 2
+train: Stain-Hole-garment-bbox-2/train/images
+val: Stain-Hole-garment-bbox-2/valid/images
